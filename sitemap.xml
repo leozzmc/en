@@ -110,34 +110,6 @@
 
   
   <url>
-    <loc>https://leozzmc.github.io/en/tags/AWS/</loc>
-    <lastmod>2024-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://leozzmc.github.io/en/tags/IoT/</loc>
-    <lastmod>2024-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://leozzmc.github.io/en/tags/SDK/</loc>
-    <lastmod>2024-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://leozzmc.github.io/en/tags/FreeRTOS/</loc>
-    <lastmod>2024-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://leozzmc.github.io/en/tags/Reverse/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -173,21 +145,21 @@
   </url>
   
   <url>
-    <loc>https://leozzmc.github.io/en/tags/S3/</loc>
+    <loc>https://leozzmc.github.io/en/tags/AWS/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://leozzmc.github.io/en/tags/Endpoints/</loc>
+    <loc>https://leozzmc.github.io/en/tags/IoT/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://leozzmc.github.io/en/tags/Gateway/</loc>
+    <loc>https://leozzmc.github.io/en/tags/SDK/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -215,6 +187,13 @@
   </url>
   
   <url>
+    <loc>https://leozzmc.github.io/en/tags/FreeRTOS/</loc>
+    <lastmod>2024-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://leozzmc.github.io/en/tags/OTA/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,21 +208,21 @@
   </url>
   
   <url>
-    <loc>https://leozzmc.github.io/en/tags/Device-Provisioning/</loc>
+    <loc>https://leozzmc.github.io/en/tags/S3/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://leozzmc.github.io/en/tags/Certificate/</loc>
+    <loc>https://leozzmc.github.io/en/tags/Endpoints/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://leozzmc.github.io/en/tags/Policy/</loc>
+    <loc>https://leozzmc.github.io/en/tags/Gateway/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -265,6 +244,27 @@
   
   <url>
     <loc>https://leozzmc.github.io/en/tags/Publish-Subscribe-Model/</loc>
+    <lastmod>2024-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://leozzmc.github.io/en/tags/Device-Provisioning/</loc>
+    <lastmod>2024-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://leozzmc.github.io/en/tags/Certificate/</loc>
+    <lastmod>2024-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://leozzmc.github.io/en/tags/Policy/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
